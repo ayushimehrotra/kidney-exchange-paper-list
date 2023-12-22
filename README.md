@@ -45,19 +45,23 @@ AAAI 2021
 [Failure-Aware Kidney Exchange](https://dl.acm.org/doi/10.1145/2492002.2482596)  
 ACM-EC 2013
  - Reflects on the use of KPD and identifies points of failure
- - Integrates expected utility in the objective function and creates unique solver
+ - Integrates expected utility in the objective function and creates a unique solver
 
 [Cutting Plane Approaches for the Robust Kidney Exchange Problem](https://www.sciencedirect.com/science/article/pii/S0305054823003349)  
  Computers and Operations Research
 
 [Maximizing the expected number of transplants in kidney exchange programs with branch-and-price](https://link.springer.com/article/10.1007/s10479-017-2647-4)  
 Annals of Operations Research 2017
- - Use probabilities for each edge to simulate the failure rate for each donation, but keeps them all the same
+ - Use probabilities for each edge to simulate the failure rate for each donation, but keep them all the same
  - Use branch-and-price to enumerate through the cycles in the graph
 
 [Scalable Robust Kidney Exchange](https://ojs.aaai.org/index.php/AAAI/article/view/3899/3777)  
 AAAI 2019
-
+ - Addresses uncertainty when creating weights for each edge and the existence of an edge itself (edge means donation)
+ - Uses robust optimization and formulates a scalable optimization algorithm to solve using edge uncertainty and edge existence 
 
 ## Optimizing for Waiting Time
-
+[A comparison of matching algorithms for kidney exchange programs addressing waiting time](https://link.springer.com/article/10.1007/s10100-020-00680-y)   
+Central European Jurnal of Operations Research 2020
+ - Compares the outcomes when the objective function focuses on maximizing the number of transplants or maximizing the number of transplants with patients with the longest waiting time
+ - Greedy vs Incremental policy
