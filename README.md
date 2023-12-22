@@ -5,6 +5,12 @@
  - 12/2023: thought it was a good idea to release the background research I've accumulated
 
 ## Table of Contents
+[Organization](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#organization)  
+[What is Kidney Paired Donation](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#what-is-kidney-paired-donation)  
+[Optimizing for Preferences](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#optimizing-using-preferences)  
+[Optimizing for Sensitized Patients](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#optimizing-for-sensitized-patients)  
+[Optimizing for Success Probability](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#optimizing-for-success-probability)  
+[Optimizing for Waiting Time](https://github.com/ayushimehrotra/kidney-exchange-paper-list?tab=readme-ov-file#optimizing-for-waiting-time)  
 
 ## Organization
 I organize the paper list by topic, first by introducing the topic and then adding my notes on each paper.
