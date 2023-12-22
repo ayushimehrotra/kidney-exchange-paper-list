@@ -20,7 +20,7 @@ CEUR Workshop 2020
  - Quantifies societal values and human ethical judgments to break tiebreakers between multiple optimal sets of viable transplants
  - Uses data extracted from Amazon Mechanical Turk, intricate formulation
 
-[Transplant quality and patients’ preferences in paired kidney exchange](https://www.sciencedirect.com/science/article/pii/S0899825611000947)
+[Transplant quality and patients’ preferences in paired kidney exchange](https://www.sciencedirect.com/science/article/pii/S0899825611000947)\\
 Games and Economic Behavior 2012
  - Concludes that patient preferences cannot be added to optimize for the best set of cycles with minimal efficiency
  - Very heavy assumptions during problem formulation: incrementally allocating, no non-directed donors
